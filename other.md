@@ -5,3 +5,5 @@
 [https://wiki.osdev.org/Main_Page](https://wiki.osdev.org/Main_Page)
 
 [https://github.com/Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel)
+
+[https://blog.csdn.net/kikajack/article/details/103935304/](https://blog.csdn.net/kikajack/article/details/103935304/)
