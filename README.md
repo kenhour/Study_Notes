@@ -3,5 +3,5 @@
 ---
 
 - 学习资料
-- 学习笔记
+- [学习笔记](https://github.com/kenhour/Study_Notes/blob/main/note_index.md)
 
