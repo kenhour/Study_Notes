@@ -1,7 +1,8 @@
 记录学习OS ASM C
 
-- [学习资料](https://github.com/kenhour/Study_Notes/blob/main/res_index.md)
-- [学习笔记](https://github.com/kenhour/Study_Notes/blob/main/note_index.md)
+- linux
+- x86汇编语言-从实模式到保护模式
+
 
 
 
