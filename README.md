@@ -4,6 +4,8 @@
 
 - linux
 - x86汇编语言-从实模式到保护模式
+  
+  +x86架构中的[寄存器](https://zhuanlan.zhihu.com/p/664901746)
 
 
 
